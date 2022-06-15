@@ -20,7 +20,7 @@ const AboutUs = () => (
           Praesent quis libero sodales, interdum velit in, eleifend tortor.
           Maecenas hendrerit ante eu odio rutrum, vel fermentum sapien varius.
         </p>
-        <button type='button' className='custom__button'>Know Me</button>
+        <button type='button' className='custom__button'>Know More</button>
       </div>
 
       <div className='app__aboutus-content_knife flex__center'>
@@ -37,7 +37,7 @@ const AboutUs = () => (
           Praesent quis libero sodales, interdum velit in, eleifend tortor.
           Maecenas hendrerit ante eu odio rutrum, vel fermentum sapien varius.
         </p>
-        <button type='button' className='custom__button'>Know Me</button>
+        <button type='button' className='custom__button'>Know More</button>
       </div>
 
     </div>
